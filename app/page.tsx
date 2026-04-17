@@ -60,15 +60,11 @@ export default function Home() {
         <div className="flex justify-center mb-16">
           <div className="w-64 h-96 bg-card border border-border rounded-2xl overflow-hidden shadow-xl">
             <video
+              src="/video_2026-04-17_22-25-29.mp4"
               autoPlay
-              muted
-              loop
               playsInline
               className="w-full h-full object-cover"
-            >
-              <source src="/video_2026-04-17_22-25-29.mp4" type="video/mp4" />
-              Your browser does not support the video tag.
-            </video>
+            />
           </div>
         </div>
 
