@@ -57,17 +57,6 @@ export default function Home() {
           </Link>
         </div>
 
-        <div className="flex justify-center mb-16">
-          <div className="w-64 h-96 bg-card border border-border rounded-2xl overflow-hidden shadow-xl">
-            <video
-              src="/video_2026-04-17_22-25-29.mp4"
-              autoPlay
-              playsInline
-              className="w-full h-full object-cover"
-            />
-          </div>
-        </div>
-
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16">
           <div className="bg-gradient-to-br from-secondary/10 to-card border border-secondary/20 rounded-xl p-8 hover:shadow-lg hover:border-secondary/40 transition relative overflow-hidden group">
             <div className="absolute top-0 right-0 w-24 h-24 bg-secondary/20 rounded-full -mr-12 -mt-12 group-hover:scale-110 transition" />
