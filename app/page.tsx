@@ -66,7 +66,7 @@ export default function Home() {
               playsInline
               className="w-full h-full object-cover"
             >
-              <source src="" type="video/mp4" />
+              <source src="/video_2026-04-17_22-25-29.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </div>
